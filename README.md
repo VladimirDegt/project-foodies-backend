@@ -1,3 +1,8 @@
+### Notice: 
+It's back up. 
+
+Original: https://github.com/Chivapchichi2/project-foodies-backend
+
 # Project Foodies Backend
 
 This repository contains the backend code for Project Foodies, a social platform for food enthusiasts to share and discover new recipes, review restaurants, and follow other foodies.
